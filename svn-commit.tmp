@@ -1,0 +1,24 @@
+A3
+--This line, and those below, will be ignored--
+
+A    .
+A    Makefile
+A    .classpath
+AM   endTime.txt~
+AM   MVC_UML.jpg
+AM   savedSketch.txt
+A    endTime.txt
+A    .project
+A    src
+A    src/ksketch
+A    src/ksketch/Stroke.java
+A    src/ksketch/Frame.java
+A    src/ksketch/IView.java
+A    src/ksketch/GraphicalView.java
+A    bin
+A    bin/ksketch
+A    mvcUML.ucls
+A    README.txt~
+A    MAKEFILE~
+A    Makefile~
+A    README.txt
